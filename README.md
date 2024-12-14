@@ -98,7 +98,7 @@ You’re all set! Now you can use your SD card like any other normal storage dev
   You can still follow this guide by booting into the Manjaro Live USB environment. Linux doesn’t bite, I promise.  
 
 - **Still stuck?**  
-  Check out the official [`sdtool` GitHub repository](https://github.com/BertoldVdb/sdtool) for more advanced troubleshooting.  
+  Check out the official `sdtool` [GitHub repository](https://github.com/BertoldVdb/sdtool) for more advanced troubleshooting.  
 
 ---
 
